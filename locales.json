@@ -7,7 +7,21 @@
     "bar": "Barrio",
     "tel": "090000000",
     "cat": "Galletitas",
-    "image": "/uploads/1726032541319.png"
+    "image": "/uploads/1726032541319.png",
+    "insta": "@buenas",
+    "face": "00"
+  },
+  {
+    "id": "1726032541179",
+    "name": "Nombre",
+    "hour": "Horario",
+    "dir": "Direccion",
+    "bar": "Barrio",
+    "tel": "090000000",
+    "cat": "Galletitas",
+    "image": "/uploads/1726032541319.png",
+    "insta": "undefined",
+    "face": "undefined"
   },
   {
     "id": "1726032541177",
@@ -27,17 +41,9 @@
     "bar": "Barrio",
     "tel": "090000000",
     "cat": "Galletitas",
-    "image": "/uploads/1726032541319.png"
-  },
-  {
-    "id": "1726032541179",
-    "name": "Nombre",
-    "hour": "Horario",
-    "dir": "Direccion",
-    "bar": "Barrio",
-    "tel": "090000000",
-    "cat": "Galletitas",
-    "image": "/uploads/1726032541319.png"
+    "image": "/uploads/1726032541319.png",
+    "insta": "undefined",
+    "face": "undefined"
   },
   {
     "id": "1726032541180",
